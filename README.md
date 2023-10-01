@@ -1,5 +1,5 @@
-# html-starter
+# Taplink
 
-Started template for site layout
+Landing page about me
 
 ### Author: Dmitry Shimansky
